@@ -26,7 +26,6 @@ apply plugin: 'kotlin-android'
 
 android {
   namespace "rekab.app.background_locator"   // ✅ 코드 구조와 일치
-
   compileSdkVersion 33
 
   sourceSets {
