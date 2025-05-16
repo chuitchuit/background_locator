@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-  namespace "rekab.app.background_locator"   // ✅ 코드 구조와 일치
+  namespace "com.chuitchuit.background_locator"   // ✅ 코드 구조와 일치
   compileSdkVersion 33
 
   sourceSets {
